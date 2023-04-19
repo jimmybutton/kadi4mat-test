@@ -1,0 +1,4 @@
+notebook
+requests
+black[jupyter]
+python-dotenv
